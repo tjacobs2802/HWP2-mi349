@@ -16,6 +16,7 @@ main{
     background-image: url('images/mac.jpg');
     background-size: cover;
     background-position: bottom;
+    background: no-repeat bottom / cover url('images/mac.jpg');
     height: 250px;
     border-radius: 20px;
 }
@@ -29,7 +30,6 @@ main{
     flex-grow: 1;
     flex-basis: 0;
     background: #E9EAEC;
-    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
 }
