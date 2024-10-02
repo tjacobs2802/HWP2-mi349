@@ -2,7 +2,7 @@ body{
     background: #FFFF;
     font-family: Arial, Helvetica, sans-serif;
     border-top: 15px solid #424242;
-    margin: 0 auto;
+    margin: 0;
     color: #424242;
 
 }
@@ -13,9 +13,6 @@ main{
 }
 
 .masthead{
-    background-image: url('images/mac.jpg');
-    background-size: cover;
-    background-position: bottom;
     background: no-repeat bottom / cover url('images/mac.jpg');
     height: 250px;
     border-radius: 20px;
@@ -35,11 +32,11 @@ main{
 }
 
 .details section p{
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section h2{
-    margin: 20px;
+    margin: 25px;
 }
 
 .details section.with-code{
