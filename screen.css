@@ -1,9 +1,10 @@
 body{
     background: #FFFF;
     font-family: Arial, Helvetica, sans-serif;
+    border-top: 15px solid #424242;
+    margin: 0;
 }
 
 img{
     width: 100%;
-    
 }
